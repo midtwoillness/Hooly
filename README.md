@@ -1,3 +1,8 @@
+# 截图
+
+![主界面](./screenshot.png)
+
+
 # Hooly
 
 <div align="center">
